@@ -1,0 +1,4 @@
+.env
+*.log
+/assets/documents/*.pdf
+/assets/images/*-private.*
